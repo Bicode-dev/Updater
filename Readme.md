@@ -9,6 +9,30 @@ téléchargé même sans connexion.
 
 ---
 
+## Aperçu
+
+<img src="images/01-accueil.png" width="820" alt="Accueil sur ordinateur : la série à la une, la rangée « Reprendre » avec le temps restant de chaque épisode, puis les ajouts récents.">
+
+*Accueil sur ordinateur : la série à la une, la rangée « Reprendre » avec le temps restant de chaque épisode, puis les ajouts récents.*
+
+<img src="images/02-bibliotheque.png" width="820" alt="Bibliothèque sur ordinateur : les séries téléchargées, avec leur nombre d'épisodes et la place qu'elles occupent, disponibles hors ligne.">
+
+*Bibliothèque sur ordinateur : les séries téléchargées, avec leur nombre d'épisodes et la place qu'elles occupent, disponibles hors ligne.*
+
+<img src="images/03-diagnostic.png" width="820" alt="Paramètres, onglet Diagnostic : l'état de chaque élément (pastille par ligne) et le temps de démarrage détaillé étape par étape.">
+
+*Paramètres, onglet Diagnostic : l'état de chaque élément (pastille par ligne) et le temps de démarrage détaillé étape par étape.*
+
+<img src="images/04-telephone-accueil.png" width="280" alt="Accueil sur téléphone, avec la barre de navigation en bas.">
+
+*Accueil sur téléphone, avec la barre de navigation en bas.*
+
+<img src="images/05-telephone-bibliotheque.png" width="280" alt="Bibliothèque sur téléphone.">
+
+*Bibliothèque sur téléphone.*
+
+---
+
 ## Ce que vous y trouverez
 
 - **Un lecteur complet** : reprise automatique, saut d'intro, épisode suivant
